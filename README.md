@@ -29,29 +29,3 @@ After stopping physical activity, stress increased and academic performance decl
 ## Conclusion
 This project highlights the importance of physical activity in maintaining mental well-being and academic performance, especially for students.
 A personal data storytelling project analyzing how physical activity impacts concentration, stress levels, sleep, and academic performance across different life phases.
-
-## Dataset
-- Past Active Phase (high physical activity)
-- Present Less Active Phase (reduced physical activity)
-
-The dataset includes:
-- Study hours
-- Sleep duration
-- Physical activity
-- Concentration score
-- Stress level
-- Academic marks
-
-## Key Insight
-When Sruththi was physically active, concentration and academic performance were high.
-After stopping physical activity, stress increased and academic performance declined — even with increased study hours.
-
-## Tools Used
-- Excel
-- CSV Dataset
-- Data Visualization
-- Data Storytelling
-
-## Conclusion
-This project highlights the importance of physical activity in maintaining mental well-being and academic performance, especially for students.
-
